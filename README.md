@@ -1,5 +1,5 @@
 # TugasBesar-AplikasiBerbasisPlatform-
-Tugas besar 
+Tugas besar Wisata Solo Raya
 
 Adhyaksa Diffa Maulana	(1301190468)
 
