@@ -1,0 +1,14 @@
+kontribusi
+
+Adhyaksa Diffa Maulana (1301190468)
+Login, Registrasi, DataBase Login, Dashboard, controller, api
+
+Claudia Mei Serin Sitio (1301190424)
+Dashboard ,Informasi, Destinasi, Kuliner, Bantuan
+
+Mansel Lorenzo (1301190188)
+Dashboard ,Informasi, Destinasi, Kuliner
+
+
+Vena Erla Candrika (1301194040)
+Dashboard ,Informasi, Destinasi, Kuliner
